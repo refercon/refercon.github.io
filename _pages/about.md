@@ -1,0 +1,36 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I'm currently pursuing my Ph.D. degree in  Computer Technology at the School of Computer Science and Engineering, Central South University, China, (Supervisor: <a href="#" >Prof. Anfeng Liu </a>). My research interests include cyber security, Internet of Things, and machine learning. 
+I received my M.E. degree at the School of Computer Science and Engineering, Chongqing Three Gorges University, China, in 2020. 
+I received my B.E. degree in  Electronic Information Engineering at the School of Electronic Engineering, University of Electronic Science and Technology of China, China, in 2013.
+
+
+Academic Achievements
+======
+* [1] Y. Kang, A. Liu, N. N. Xiong, S. Zhang, T. Wang and M. Dong. DTD: An Intelligent Data and Bid Dual Truth Discovery Scheme for MCS in IIoT. IEEE Internet of Things Journal, vol. 11, no. 2, pp. 2507-2519, 2024. (SCI&EI, IF:10.6, JCR 1区/中科院1区)
+* [2] Y. Kang, J. Zhong, R. Li, Y. Liang, & Zhang, N. (2021). Classification method for network security data based on multi-featured extraction. International Journal on Artificial Intelligence Tools, 30(01), 2140006. (SCI&EI)
+* [3] Y. Kang, J. Zhong, R. Li, Irrigation system based on Message Queuing Telemetry Transport Protocol. Science Technology and  Engineering, 08(2020): 3109-3116. (北大核心)          
+* [4] Y. Kang, J. Zhong, R. Li, Y. Liang, An Intelligent Irrigation System Based on Message Queuing Encryption Transport. Yellow River, 01(2020): 150-156. (北大核心)
+* [5] Y. Kang, J. Zhong, A Water Condition Monitoring and Warning System Based on LoRa Wireless Spread Spectrum Communication. Telecommunication Engineering, 10(2020):1155-1162. (北大核心)          
+
+Professional Qualification
+======
+* Obtained Senior Information Systems Project Manager certification in 2018.
+* Earned Registered Information Security Engineer status in 2018.
+* Achieved Intermediate Information Systems Supervisor certification in 2016.
+* Gained Intermediate Database System Engineer certification in 2014.
+
+Skills
+------
+* <b>Programming Languages and Databases</b>: Proficient in Python, PHP, and MySQL, possessing a solid foundation in development languages and database technologies.
+* <b>Application Development</b>: Capable of developing B/S (Browser/Server) and C/S (Client/Server) applications.
+* <b>Internet of Things (IoT)</b>: Rich practical experience in IoT, familiar with mainstream development boards such as NodeMCU, Raspberry PI, and Arduino, and able to construct diverse IoT applications based on these platforms.
+* <b>Cyber Security</b>: Skilled in information system intrusion detection and security reinforcement, adept at identifying and remedying security vulnerabilities in WEB information systems.
+* <b>Performance Optimization</b>: Proficient in performance tuning for Linux servers and databases, capable of significantly enhancing system efficiency and response times, ensuring high availability and superior performance.
