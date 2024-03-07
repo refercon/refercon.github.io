@@ -23,9 +23,9 @@ Academic Achievements
 Professional Qualification
 ======
 * Obtained Information Systems Project Manager certification (Senior Engineer) in 2018.
-* Earned Registered Information Security Engineer status in 2018.
-* Achieved Information Systems Supervisor certification (Engineer) in 2016  .
-* Gained Database System Engineer certification (Engineer) in 2014.
+* Obtained Registered Information Security Engineer status in 2018.
+* Obtained Information Systems Supervisor certification (Engineer) in 2016  .
+* Obtained Database System Engineer certification (Engineer) in 2014.
 
 Skills
 ------
