@@ -12,7 +12,7 @@ title                    : "Yunchuan Kang"
 title_separator          : "-"
 name                     : &name "Yunchuan Kang"
 description              : &description "康云川个人主页"
-url                      : "https://wwwww.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://uiu.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kangyunchuan.github.io"
 
