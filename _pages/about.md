@@ -20,7 +20,7 @@ Academic Achievements
 * [4] Y. Kang, J. Zhong, R. Li, Y. Liang, An Intelligent Irrigation System Based on Message Queuing Encryption Transport. Yellow River, 01(2020): 150-156. (北大核心)
 * [5] Y. Kang, J. Zhong, A Water Condition Monitoring and Warning System Based on LoRa Wireless Spread Spectrum Communication. Telecommunication Engineering, 10(2020):1155-1162. (北大核心)          
 
-Professional Qualification
+Professional Qualifications
 ======
 * Obtained Information Systems Project Manager certification (Senior Engineer) in 2018.
 * Obtained Registered Information Security Engineer status in 2018.
