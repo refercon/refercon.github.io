@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently pursuing my Ph.D. degree in  Computer Technology at the School of Computer Science and Engineering, Central South University, China, (Supervisor: <a href="#" >Prof. Anfeng Liu </a>). My research interests include cyber security, Internet of Things, and machine learning. 
+I'm currently pursuing my Ph.D. degree in  Computer Technology at the School of Computer Science and Engineering, Central South University, China, (Supervisor: <a href="https://faculty.csu.edu.cn/anfengliu/zh_CN/index.htm" target="_blank">Prof. Anfeng Liu </a>). My research interests include cyber security, Internet of Things, and machine learning. 
 I received my M.E. degree at the School of Computer Science and Engineering, Chongqing Three Gorges University, China, in 2020, (Supervisor: <a href="#" >Prof. J. Zhong</a>). 
 I received my B.E. degree in  Electronic Information Engineering at the School of Electronic Engineering, University of Electronic Science and Technology of China, China, in 2013.
 
