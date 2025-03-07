@@ -14,14 +14,15 @@ I received my B.E. degree in  Electronic Information Engineering at the School o
 
 Academic Achievements
 ======
-* [1] Y. Kang, A. Liu, N. N. Xiong, S. Zhang, T. Wang. ILPA: An Intelligent Location Preference Assignment Framework for MCS in Metaverse and Digital Twins Environments,  IEEE Transactions on Consumer Electronics, (2024) doi: 10.1109/TCE.2024.3439711. (SCI&EI, IF:4.3)
-* [2] Y. Kang, A. Liu, S. Zhang, T. Wang, M. Dong, H. Song. (2024) DWSP-MT: Discovery of Workers Sensing Preferences to Match Tasks for Improving Data Collection Quality in MCS, Internet of Things, 26, 101198. (SCI, IF:5.9)
-* [3] 康云川, 白静, 刘安丰. 一种基于参与者可靠度和任务匹配的可信数据感知方法, 2024.04.16, ZL202211513040.7 (授权发明专利)
-* [4] Y. Kang, A. Liu, N. N. Xiong, S. Zhang, T. Wang and M. Dong. DTD: An Intelligent Data and Bid Dual Truth Discovery Scheme for MCS in IIoT. IEEE Internet of Things Journal, vol. 11, no. 2, pp. 2507-2519, 2024. (SCI&EI, IF:10.6)
-* [5] Y. Kang, J. Zhong, R. Li, Y. Liang, & Zhang, N. (2021). Classification method for network security data based on multi-featured extraction. International Journal on Artificial Intelligence Tools, 30(01), 2140006. (SCI&EI)
-* [6] Y. Kang, J. Zhong, R. Li, Irrigation system based on Message Queuing Telemetry Transport Protocol. Science Technology and  Engineering, 08(2020): 3109-3116. (北大核心)          
-* [7] Y. Kang, J. Zhong, R. Li, Y. Liang, An Intelligent Irrigation System Based on Message Queuing Encryption Transport. Yellow River, 01(2020): 150-156. (北大核心)
-* [8] Y. Kang, J. Zhong, A Water Condition Monitoring and Warning System Based on LoRa Wireless Spread Spectrum Communication. Telecommunication Engineering, 10(2020):1155-1162. (北大核心)          
+* [1] Y. Kang, H. H. Song, T. Wang, S. Zhang, M. Dong, & A. Liu, A Trust and Bundling-based Task Allocation Scheme to Enhance Completion Rate and Data Quality for Mobile Crowdsensing, Computer Networks, 2025, 111189 (SCI&EI, IF:4.4).
+* [2] Y. Kang, A. Liu, N. N. Xiong, S. Zhang, T. Wang. ILPA: An Intelligent Location Preference Assignment Framework for MCS in Metaverse and Digital Twins Environments,  IEEE Transactions on Consumer Electronics, (2024) doi: 10.1109/TCE.2024.3439711. (SCI&EI, IF:4.3)
+* [3] Y. Kang, A. Liu, S. Zhang, T. Wang, M. Dong, H. Song. (2024) DWSP-MT: Discovery of Workers Sensing Preferences to Match Tasks for Improving Data Collection Quality in MCS, Internet of Things, 26, 101198. (SCI, IF:5.9)
+* [4] 康云川, 白静, 刘安丰. 一种基于参与者可靠度和任务匹配的可信数据感知方法, 2024.04.16, ZL202211513040.7 (授权发明专利)
+* [5] Y. Kang, A. Liu, N. N. Xiong, S. Zhang, T. Wang and M. Dong. DTD: An Intelligent Data and Bid Dual Truth Discovery Scheme for MCS in IIoT. IEEE Internet of Things Journal, vol. 11, no. 2, pp. 2507-2519, 2024. (SCI&EI, IF:10.6)
+* [6] Y. Kang, J. Zhong, R. Li, Y. Liang, & Zhang, N. (2021). Classification method for network security data based on multi-featured extraction. International Journal on Artificial Intelligence Tools, 30(01), 2140006. (SCI&EI)
+* [7] Y. Kang, J. Zhong, R. Li, Irrigation system based on Message Queuing Telemetry Transport Protocol. Science Technology and  Engineering, 08(2020): 3109-3116. (北大核心)          
+* [8] Y. Kang, J. Zhong, R. Li, Y. Liang, An Intelligent Irrigation System Based on Message Queuing Encryption Transport. Yellow River, 01(2020): 150-156. (北大核心)
+* [9] Y. Kang, J. Zhong, A Water Condition Monitoring and Warning System Based on LoRa Wireless Spread Spectrum Communication. Telecommunication Engineering, 10(2020):1155-1162. (北大核心)          
 
 Professional Qualifications
 ======
